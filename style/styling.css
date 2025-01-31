@@ -1,0 +1,144 @@
+/* Default Stylesheet */
+
+															/** BODY ELEMENTS **/
+body {
+	color: #333;
+	background-color: #2B172E;
+	}
+
+
+
+
+
+
+															/** MAIN CONTAINERS **/
+div#container {
+	margin: 2em auto;
+	}
+	div#header {
+		color: inherit;
+		background-color: #fff;
+		border: 1px solid #5C0F39;
+		border-width: 0 2px 2px 0;
+		}
+		div#header-in {
+			padding: 20px;
+			font-family: Georgia, serif;
+			font-size: 41px;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: normal;
+			letter-spacing: normal;
+			line-height: 1.2em;
+			}
+	div#content-wrap {
+		padding: 10px 0;
+		}
+		div.content {
+			color: inherit;
+			background-color: #fff;
+			border: 1px solid #e5e5e5;
+			border-width: 0 2px 2px 0;
+			}
+			div.content-in {
+				padding: 20px;
+				font-family: Georgia, serif;
+				font-size: 16px;
+				font-style: italic;
+				font-weight: normal;
+				text-transform: normal;
+				letter-spacing: normal;
+				line-height: 1.5em;
+				}
+			a:link {
+				color: #1D8499;
+				font-family: Georgia, serif;
+				font-size: 16px;
+				font-style: italic;
+				font-weight: normal;
+				text-transform: normal;
+				letter-spacing: normal;
+				line-height: 1.5em; 
+				}
+			a:hover {
+				color: #ABD4CF;
+				font-family: Georgia, serif;
+				font-size: 16px;
+				font-style: italic;
+				font-weight: normal;
+				text-transform: normal;
+				letter-spacing: normal;
+				line-height: 1.5em; 
+				}
+			a:active {
+				color: #ABD4CF;
+				font-family: Georgia, serif;
+				font-size: 16px;
+				font-style: italic;
+				font-weight: normal;
+				text-transform: normal;
+				letter-spacing: normal;
+				line-height: 1.5em; 
+				}
+			a:visited {
+				color: #5C0F39;
+				font-family: Georgia, serif;
+				font-size: 16px;
+				font-style: italic;
+				font-weight: normal;
+				text-transform: normal;
+				letter-spacing: normal;
+				line-height: 1.5em; 
+				}
+	div#footer {
+		color: inherit;
+		background-color: #fff;
+		border: 1px solid #e5e5e5;
+		border-width: 0 2px 2px 0;
+		}
+		div#footer-in {
+			padding: 20px;
+			font-family: Georgia, serif;
+			font-size: 10px;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			line-height: 2em;
+			}
+
+
+
+
+
+
+															/** SUB CONTAINERS **/
+* { }
+
+
+
+
+
+
+															/** LISTS **/
+* { }
+
+
+
+
+
+
+															/** TYPOGRAPHY **/
+
+* { }
+
+
+															/** FORMS **/
+* { }
+
+
+
+
+
+
+															/** END **/
